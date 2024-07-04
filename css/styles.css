@@ -264,7 +264,7 @@ img {
   gap: 48px 24px;
 }
 
-.portfolio-item {
+li .portfolio-item {
   width: calc((100%-48px) / 3);
 }
 
