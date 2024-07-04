@@ -297,10 +297,13 @@ img {
   padding: 100px 0;
 }
 
-.footer-logo .logo-part {
+.footer-logo {
   display: inline-block;
-  color: #f4f4fd;
   margin-bottom: 16px;
+}
+
+.footer-logo .logo-part {
+  color: #f4f4fd;
 }
 
 .footer-text {
